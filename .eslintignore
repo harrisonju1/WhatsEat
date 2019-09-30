@@ -1,0 +1,6 @@
+/coverage
+/dist
+/docs
+/mock
+/node_modules
+/*.*

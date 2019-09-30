@@ -1,2 +1,3 @@
-# WhatsEat
-App to decide what food to eat 
+WhatsEat
+
+An app for deciding what to eat with your friends.
