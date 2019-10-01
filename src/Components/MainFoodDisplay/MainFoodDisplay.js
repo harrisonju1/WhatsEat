@@ -1,10 +1,9 @@
 import React from 'react'
 
-
 export default function MainFoodDisplay() {
-	return (
-		<div className=''>
+  return (
+    <div className=''>
 			hello
-		</div>
-	)
+    </div>
+  )
 }

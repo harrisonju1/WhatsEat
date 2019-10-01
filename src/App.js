@@ -1,4 +1,4 @@
-import React, {Fragment} from 'react';
+import React, {Fragment} from 'react'
 import GlobalHeader from './Components/GlobalHeader/GlobalHeader'
 import MainFoodDisplay from './Components/MainFoodDisplay/MainFoodDisplay'
 import './App.css';
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
