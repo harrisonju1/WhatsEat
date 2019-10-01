@@ -193,6 +193,6 @@ html{overflow-x:hidden}body{background:#fff;font-family:"Open Sans", Arial, sans
     transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-.p btn{
-    padding-top:5rem;
+.home-button{
+    margin-top:5rem;
 }

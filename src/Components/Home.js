@@ -14,7 +14,7 @@ return (
 						<div className="row slider-text align-items-center justify-content-center">
 							<div className="col-md-8 text-center col-sm-12 ">
 								<h1 >No more wasting time on Yelp with WhatsEat</h1>
-								<p><Link to="/explore" className="btn btn-white btn-outline-white">Explore</Link></p>
+								<p><Link to="/explore" className="btn btn-white btn-outline-white home-button">Explore</Link></p>
 							</div>
 						</div>
 					</div>
