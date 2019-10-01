@@ -1,9 +1,10 @@
 import React from 'react'
 import '../../Styles/HeaderStyles.css'
+import {Link} from 'react-router-dom'
 
 export default function GlobalHeader() {
 	return (
-	<nav className='navigation whats-eat-navigation'>
+	<div className='whats-eat-navigation'>
 		<div className='global-header'>
 			<div className='header-content-box'>
 				<div className='whats-eat-header'>
@@ -35,6 +36,6 @@ export default function GlobalHeader() {
 				</div>
 			</div>
 		</div>
-	</nav>
+	</div>
 	)
 }
